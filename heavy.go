@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Opportunity fill example conference.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
