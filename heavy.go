@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Fine time half.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
