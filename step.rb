@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Deep democratic money.
 puts "Hello, World!"
+
+# Sign draw model activity time.
+puts "Hello, World!"
