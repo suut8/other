@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# See rich hair safe however necessary beautiful.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
