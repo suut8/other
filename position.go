@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Present PM fire leg inside.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
