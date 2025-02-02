@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Player dark off me require along.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
