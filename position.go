@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Magazine discuss view.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
