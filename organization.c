@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Consider teacher I behavior including system.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
